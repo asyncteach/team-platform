@@ -1,0 +1,7 @@
+# catalog_service/requirements.txt
+
+uvicorn
+fastapi
+python-dotenv
+
+

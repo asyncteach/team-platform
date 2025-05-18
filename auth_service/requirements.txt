@@ -1,0 +1,8 @@
+# auth_service/requirements.txt
+
+
+Django==5.2
+
+dj-database-url
+python-dotenv
+load_dotenv
