@@ -2,7 +2,11 @@
 
 
 Django==5.2
-
-dj-database-url
-python-dotenv
-load_dotenv
+dj-database-url==1.0.0
+python-dotenv==1.0.1
+djangorestframework
+drf-spectacular
+drf-spectacular[sidecar]
+djangorestframework-simplejwt==5.5.0
+celery
+redis
